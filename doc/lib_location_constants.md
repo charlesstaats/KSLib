@@ -1,6 +1,7 @@
 ## `lib_location_constants`
 
 The `lib_location_constants.ks` library provides geolocations for places that would be relatively easy to locate for players flying manually (i.e., without the use of scripting mods such as kOS).
+Currently only supports the stock solar system.
 The locations in this file are not authoritative; feel free to submit updates if you find them inaccurate.
 Additions (new locations, including on bodies other than Kerbin or even on non-stock bodies such as Earth or Gael) are welcome,
 but you are advised to check with the KSLib developers (e.g., by submitting a feature request) before adding locations of easter eggs that were originally intended to be difficult to locate.
